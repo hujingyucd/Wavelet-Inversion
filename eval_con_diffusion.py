@@ -54,8 +54,8 @@ if __name__ == '__main__':
 
 
     use_preload = True
-    loading_files = [(r"03001627_0.1_bior6.8_3_zero_testing.npy", 3),
-                     (r"03001627_0.1_bior6.8_2_zero_testing.npy", 2)]
+    loading_files = [(r"Dataset/03001627_0.1_bior6.8_3_zero_testing.npy", 3),
+                     (r"Dataset/03001627_0.1_bior6.8_2_zero_testing.npy", 2)]
 
 
 

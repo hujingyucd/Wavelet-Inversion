@@ -1,6 +1,12 @@
-# Neural Wavelet-domain Diffusion for 3D Shape Generation [ACM TOG 2023]
+# Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation [ACM TOG 2023]
 
 ![teaser](imgs/teaser.png)
+
+This is the code for "Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation"
+
+Authors: Jingyu Hu*, Ka-Hei Hui, Zhengzhe Liu, Ruihui Li, Chi-Wing Fu (\* joint first authors)
+
+# Environment
 
 For environment setup, we follow [Wavelet-Generation](https://github.com/edward1997104/Wavelet-Generation). 
 

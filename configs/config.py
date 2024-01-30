@@ -1,7 +1,7 @@
 import pywt
 import torch
 
-debug_base_folder = r"/home/jyhu/condiff/control_diff_release/debug/"
+debug_base_folder = r"debug"
 backup_path = None
 
 
